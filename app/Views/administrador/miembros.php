@@ -27,15 +27,15 @@ precio -->
                           <table class="table table-striped table-hover">
                             <thead>
                               <tr> 
-                                <th class="text-uppercase bg-danger">Factura</th>
-                                <th class="text-uppercase bg-danger"></th>
-                                <th class="text-uppercase bg-danger">Cantidad</th>
-                                <th class="text-uppercase bg-danger">Total</th>
-                                <th class="text-uppercase bg-danger">fecha</th>
-                                <th class="text-uppercase bg-danger">hora</th>
-                                <th class="text-uppercase bg-danger">¿obsequio?</th>
-                                <th class="text-uppercase bg-danger">estado</th>
-                                <th class="text-uppercase bg-danger"></th>
+                                <th class="text-uppercase bg-primary">Factura</th>
+                                <th class="text-uppercase bg-primary"></th>
+                                <th class="text-uppercase bg-primary">Cantidad</th>
+                                <th class="text-uppercase bg-primary">Total</th>
+                                <th class="text-uppercase bg-primary">fecha</th>
+                                <th class="text-uppercase bg-primary">hora</th>
+                                <th class="text-uppercase bg-primary">¿obsequio?</th>
+                                <th class="text-uppercase bg-primary">estado</th>
+                                <th class="text-uppercase bg-primary"></th>
                               </tr>
                             </thead>
                             <tbody>

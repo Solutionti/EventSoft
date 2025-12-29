@@ -20,7 +20,7 @@ precio -->
       <!--  -->
       <div class="body flex-grow-1">
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-9">
                 <div class="container-lg px-4">
                   <div class="card mb-4">
                     <div class="card-header">Lista de Deportistas</div>
@@ -29,14 +29,20 @@ precio -->
                           <table class="table table-striped table-hover">
                             <thead>
                               <tr> 
-                                <th class="text-uppercase bg-danger"></th>
-                                <th class="text-uppercase bg-danger"></th>
-                                <th class="text-uppercase bg-danger">Nombre</th>
-                                <th class="text-uppercase bg-danger">Codigo</th>
-                                <th class="text-uppercase bg-danger">Telefono</th>
-                                <th class="text-uppercase bg-danger">Rol</th>
-                                <th class="text-uppercase bg-danger">Estado</th>
-                                <th class="text-uppercase bg-danger"></th>
+                                <th class="text-uppercase bg-primary"></th>
+                                <th class="text-uppercase bg-primary"></th>
+                                <th class="text-uppercase bg-primary">Nombre</th>
+                                <th class="text-uppercase bg-primary">Fecha nacimiento</th>
+                                <th class="text-uppercase bg-primary">Departamento</th>
+                                <th class="text-uppercase bg-primary">Ciudad</th>
+                                <th class="text-uppercase bg-primary">Direccion</th>
+                                <th class="text-uppercase bg-primary">Telefono</th>
+                                <th class="text-uppercase bg-primary">Correo</th>
+                                <th class="text-uppercase bg-primary">RH</th>
+                                <th class="text-uppercase bg-primary">checkin</th>
+                                <th class="text-uppercase bg-primary">Seguro medico</th>
+                                <th class="text-uppercase bg-primary">Estado</th>
+                                <th class="text-uppercase bg-primary"></th>
                               </tr>
                             </thead>
                             <tbody>
@@ -61,6 +67,12 @@ precio -->
                                 <td>3155639791</td>
                                 <td>Administrador</td>
                                 <td>Activo</td>
+                                <td>Activo</td>
+                                <td>Activo</td>
+                                <td>Activo</td>
+                                <td>Activo</td>
+                                <td>Activo</td>
+                                <td>Activo</td>
                                 <td>
                                   <div class="dropdown">
                                     <button class="btn btn-transparent p-0" type="button" data-coreui-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -81,7 +93,7 @@ precio -->
                     </div>
                   </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                   <div class="container-lg px-4">
                     <div class="card mb-4">
                       <div class="card-header">Ver Deportista</div>
