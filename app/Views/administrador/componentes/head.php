@@ -5,5 +5,5 @@
 <link rel="stylesheet" href="https://coreui.io/demos/bootstrap/5.3/free/css/vendors/simplebar.css">
 <link href="https://coreui.io/demos/bootstrap/5.3/free/css/style.css" rel="stylesheet">
 <link href="https://coreui.io/demos/bootstrap/5.3/free/css/examples.css" rel="stylesheet">
-<!-- <script src="https://coreui.io/demos/bootstrap/5.3/free/js/config.js"></script> -->
-<!-- <script src="https://coreui.io/demos/bootstrap/5.3/free/js/color-modes.js"></script> -->
+<script src="https://coreui.io/demos/bootstrap/5.3/free/js/config.js"></script>
+<script src="https://coreui.io/demos/bootstrap/5.3/free/js/color-modes.js"></script>

@@ -21,38 +21,29 @@
               <a class="nav-link" href="<?= base_url('/membresias') ?>">
                 <svg class="nav-icon">
                   <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-pencil"></use>
-                </svg> Membresias</a>
+                </svg> Configuracion General</a>
             </li>
         <li class="nav-item"><a class="nav-link" href="<?= base_url('/usuarios') ?>">
             <svg class="nav-icon">
               <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-drop"></use>
-            </svg> Usuarios</a></li>
+            </svg> Deportistas</a></li>
 
         <li class="nav-item"><a class="nav-link" href="<?= base_url('/miembros') ?>">
             <svg class="nav-icon">
               <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-pencil"></use>
-            </svg> Miembros</a>
+            </svg> Pedidos</a>
         </li>
         <li class="nav-item"><a class="nav-link" href="<?= base_url('/regular') ?>">
             <svg class="nav-icon">
               <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-pencil"></use>
-            </svg> Visita regular</a>
+            </svg> Reportes</a>
         </li>
         <li class="nav-item"><a class="nav-link" href="<?= base_url('/clases') ?>">
             <svg class="nav-icon">
               <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-pencil"></use>
-            </svg> Programacion de clases</a>
+            </svg> Panel Inscripciòn</a>
         </li>
-        <li class="nav-item"><a class="nav-link" href="<?= base_url('/ventas') ?>">
-            <svg class="nav-icon">
-              <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-pencil"></use>
-            </svg> Ventas</a>
-        </li>
-        <li class="nav-item"><a class="nav-link" href="<?= base_url('/pagos') ?>">
-            <svg class="nav-icon">
-              <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-pencil"></use>
-            </svg> Pagos</a>
-        </li>
+        
         <li class="nav-title">Version</li>
         <!-- <li class="nav-group"><a class="nav-link nav-group-toggle" href="#">
             <svg class="nav-icon">

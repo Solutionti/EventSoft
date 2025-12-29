@@ -29,11 +29,11 @@ precio -->
                           <table class="table table-striped table-hover">
                             <thead>
                               <tr> 
-                                <th class="text-uppercase bg-danger">Codigo</th>
-                                <th class="text-uppercase bg-danger">Nombre</th>
-                                <th class="text-uppercase bg-danger">Días</th>
-                                <th class="text-uppercase bg-danger">Precio</th>
-                                <th class="text-uppercase bg-danger"></th>
+                                <th class="text-uppercase bg-primary text-white">Codigo</th>
+                                <th class="text-uppercase bg-primary text-white">Nombre</th>
+                                <th class="text-uppercase bg-primary text-white">Días</th>
+                                <th class="text-uppercase bg-primary text-white">Precio</th>
+                                <th class="text-uppercase bg-primary text-white"></th>
                               </tr>
                             </thead>
                             <tbody>

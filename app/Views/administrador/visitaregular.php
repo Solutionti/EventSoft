@@ -12,7 +12,7 @@ precio -->
     <meta name="description" content="CoreUI - Open Source Bootstrap Admin Template">
     <meta name="author" content="Łukasz Holeczek">
     <meta name="keyword" content="Bootstrap,Admin,Template,Open,Source,jQuery,CSS,HTML,RWD,Dashboard">
-    <title>GymbroSoft - Visita regular</title>
+    <title>GymbroSoft - Reportes</title>
     <?php require_once 'componentes/head.php'; ?>
   </head>
   <body>
@@ -23,7 +23,7 @@ precio -->
             <div class="col-md-8">
                 <div class="container-lg px-4">
                   <div class="card mb-4">
-                    <div class="card-header">Lista de Visitas Regulares</div>
+                    <div class="card-header">Reportes</div>
                       <div class="card-body">
                         <div class="table-responsive">
                           <table class="table table-striped table-hover">

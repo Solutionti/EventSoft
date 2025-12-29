@@ -13,7 +13,7 @@
     <?php require_once 'componentes/head.php'; ?>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   </head>
-  <body style="background-color: #f4f6f9 !important; color: #333 !important;">
+  <body>
       <?php require_once 'componentes/navbar.php'; ?>
       <!--  -->
       <div class="body flex-grow-1">
