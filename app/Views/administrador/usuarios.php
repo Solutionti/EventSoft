@@ -12,7 +12,7 @@ precio -->
     <meta name="description" content="CoreUI - Open Source Bootstrap Admin Template">
     <meta name="author" content="Łukasz Holeczek">
     <meta name="keyword" content="Bootstrap,Admin,Template,Open,Source,jQuery,CSS,HTML,RWD,Dashboard">
-    <title>GymbroSoft - Deportistas</title>
+    <title>EventSoft - Deportistas</title>
     <?php require_once 'componentes/head.php'; ?>
   </head>
   <body>
@@ -32,7 +32,7 @@ precio -->
                                 <th class="text-uppercase bg-primary"></th>
                                 <th class="text-uppercase bg-primary"></th>
                                 <th class="text-uppercase bg-primary">Nombre</th>
-                                <th class="text-uppercase bg-primary">Fecha nacimiento</th>
+                                <th class="text-uppercase bg-primary">Nacimiento</th>
                                 <th class="text-uppercase bg-primary">Departamento</th>
                                 <th class="text-uppercase bg-primary">Ciudad</th>
                                 <th class="text-uppercase bg-primary">Direccion</th>
