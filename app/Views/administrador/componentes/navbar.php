@@ -18,17 +18,17 @@
             </a>
           </li>
            <li class="nav-item">
-              <a class="nav-link" href="<?= base_url('/membresias') ?>">
+              <a class="nav-link" href="<?= base_url('/configuracion') ?>">
                 <svg class="nav-icon">
                   <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-pencil"></use>
                 </svg> Configuracion General</a>
             </li>
-        <li class="nav-item"><a class="nav-link" href="<?= base_url('/usuarios') ?>">
+        <li class="nav-item"><a class="nav-link" href="<?= base_url('/deportistas') ?>">
             <svg class="nav-icon">
               <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-drop"></use>
             </svg> Deportistas</a></li>
 
-        <li class="nav-item"><a class="nav-link" href="<?= base_url('/miembros') ?>">
+        <li class="nav-item"><a class="nav-link" href="<?= base_url('/pedidos') ?>">
             <svg class="nav-icon">
               <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-pencil"></use>
             </svg> Pedidos</a>
